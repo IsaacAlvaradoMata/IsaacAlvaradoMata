@@ -12,4 +12,8 @@ Trying to be the best version of my self day by day.
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=postgresql)
+![Assembly](https://img.shields.io/badge/Assembly-grey?logo=chip)
 
