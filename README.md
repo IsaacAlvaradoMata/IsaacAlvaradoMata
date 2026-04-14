@@ -24,10 +24,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacAlvaradoMata&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlvaradoMata&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacAlvaradoMata&theme=radical)
 
 </div>
