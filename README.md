@@ -1,3 +1,4 @@
+<div align="center">
 ```
  ██████╗██████╗  ██████╗ ███████╗███████╗ █████╗  ██████╗
 ██╔════╝██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔══██╗██╔════╝
@@ -6,7 +7,7 @@
 ╚██████╗██║  ██║╚██████╔╝███████║███████║██║  ██║╚██████╗
  ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
-
+</div>
 <div align="center">
 
 `[ ISAAC ALVARADO MATA ]` · `[ SYSTEMS ENGINEER IN TRAINING ]`
@@ -15,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=github&logoColor=00ff9f)](https://isaacalvaradomata.github.io/portfolioIsaacAlvarado/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=bf5fff)](https://www.instagram.com/crossac__)
-![Location](https://img.shields.io/badge/CR-Costa_Rica-000000?style=flat-square)
+
 
 </div>
 
